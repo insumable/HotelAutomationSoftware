@@ -2,7 +2,6 @@ HEAD
 # 🏨 Hotel Automation Software
 
 > A Java Swing desktop application built using Structured Analysis & Structured Design (SA/SD) methodology.  
-> **Author:** Soham Patra &nbsp;|&nbsp; **Roll No.:** 124CS0002
 
 ---
 
