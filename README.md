@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # 🏨 Hotel Automation Software
 
 > A Java Swing desktop application built using Structured Analysis & Structured Design (SA/SD) methodology.  
@@ -195,6 +195,3 @@ java -jar HotelAutomation.jar
 - The application uses the **system look-and-feel** for native OS appearance.
 - Designed for Java 11+; no external libraries required beyond the standard JDK.
 =======
-
- 
- 
