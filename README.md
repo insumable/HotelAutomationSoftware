@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🏨 Hotel Automation Software (HAS)
+# 🏨 Hotel Automation Software
 
 > A Java Swing desktop application built using Structured Analysis & Structured Design (SA/SD) methodology.  
 > **Author:** Soham Patra &nbsp;|&nbsp; **Roll No.:** 124CS0002
@@ -195,8 +195,6 @@ java -jar HotelAutomation.jar
 - The application uses the **system look-and-feel** for native OS appearance.
 - Designed for Java 11+; no external libraries required beyond the standard JDK.
 =======
-# HotelAutomationSoftware
-Hotel Automation Software – Java Swing (SA/SD)
->>>>>>> ac8ead0ce6da2617002440bbb8c793890a941bfa
-#   H o t e l A u t o m a t i o n S o f t w a r e  
+
+ 
  
